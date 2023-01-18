@@ -6,6 +6,8 @@
 
 ### UNTIL NOW!
 
+___
+
 I enjoy
 
 - challenges
@@ -18,6 +20,8 @@ I am currently
 - getting acquainted with git and github. 
 - trying to establish a firm foundation in order to create a presentable portfolio. 
 - looking forward to building a career as a front-end web developer. 
+
+___
 
 ### So please, stay tuned! I will be updating my profile on a regular basis as I get more and more acquainted with the world of web development.  
 
